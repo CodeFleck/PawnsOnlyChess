@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-classes-kotlin.main" target="13" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-reports-tests.main" target="13" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-test-results.main" target="13" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-tmp.main" target="13" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Comments-Theory.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Comments-Uncomment_a_line.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Comments-Unused_comments.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Standard_input-Four_numbers.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Standard_input-Theory.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Standard_output-Theory.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Standard_output-Tic-Tac-Toe.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Values_and_variables-Fix_the_program.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Values_and_variables-Theory.main" target="13" />
+      <module name="Pawns-Only_Chess.Topics-Values_and_variables-val_or_var.main" target="13" />
+      <module name="Pawns-Only_Chess.util.main" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

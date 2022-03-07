@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PawnsOnlyChessTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-07T17:51:41" hostname="DESKTOP-J8U0HL1" time="0.13">
+  <properties/>
+  <testcase name="start" classname="PawnsOnlyChessTest" time="0.13"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Pawns-Only Chess
+  +---+---+---+---+---+---+---+---+
+8 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+7 | B | B | B | B | B | B | B | B |
+  +---+---+---+---+---+---+---+---+
+6 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+5 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+4 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+3 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+2 | W | W | W | W | W | W | W | W |
+  +---+---+---+---+---+---+---+---+
+1 |   |   |   |   |   |   |   |   |
+  +---+---+---+---+---+---+---+---+
+    a   b   c   d   e   f   g   h  
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
